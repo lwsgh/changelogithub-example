@@ -1,0 +1,15 @@
+{
+  "name": "changelogithub-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "changelogithub --dry"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "changelogithub": "^0.12.12"
+  }
+}
